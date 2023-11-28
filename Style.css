@@ -1,0 +1,66 @@
+.conteiner{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0,0,0, 0.6);
+  padding: 60px;
+  border-radius: 2%;
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+header > img{
+  width:300px;
+  height: auto;
+}
+
+nav, header{
+  text-align: center;
+}
+
+nav > h1{
+  color: lime;
+  font-size: 40px;
+  font-family: serif;
+}
+
+nav > div{
+  background-color: lime;
+  padding: 10px;
+  font-size: 20px;
+}
+
+ .Barradistato1{
+  width: 400px;
+  height: 25px;
+  background-color: rgba(200,150,0, 1);
+  border-radius: 5px;
+ }
+
+ .Barradistato2{
+  width: 900px;
+  height: 25px;
+  background-color: rgba(0,200,0,1);
+  border-radius: 5px;
+ }
+
+ .Barradistato3{
+  width: 100px;
+  height: 25px;
+  background-color:rgba(200, 0, 0,1);
+  border-radius: 5px;
+ }
+
+main{
+  color: white;
+  font-size: 30px;
+}
+
+h3{
+  display: inline-block;
+}
+
+*{
+    margin-bottom: 0px;
+}
